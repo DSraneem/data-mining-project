@@ -43,7 +43,7 @@ These steps reduced noise and improved feature quality.
 Word clouds were generated to visualize the most frequent terms in **REAL** and **FAKE** news articles after preprocessing.
 
 ### 📷 Word Cloud Preview
-![Word Cloud for Real and Fake News](VI.png)
+![Word Cloud for Real and Fake News](VI.PNG)
 
 ---
 
